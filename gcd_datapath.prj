@@ -1,0 +1,5 @@
+verilog work "subt.v"
+verilog work "pipo.v"
+verilog work "MUX.v"
+verilog work "COMPARE.v"
+verilog work "gcd_datapath.v"

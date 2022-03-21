@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/project/gcd/gcd_datapath.xst" -ofn "C:/project/gcd/gcd_datapath.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim gcd_datapath.ngc gcd_datapath_synthesis.v 
